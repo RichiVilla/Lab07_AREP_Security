@@ -1,0 +1,6 @@
+com\mycompany\securityapp\URLReader.class
+com\mycompany\securityapp\dto\LoginRequest.class
+com\mycompany\securityapp\controller\AuthController.class
+com\mycompany\securityapp\CorsConfig.class
+com\mycompany\securityapp\CorsConfig$1.class
+com\mycompany\securityapp\SecurityApplication.class
